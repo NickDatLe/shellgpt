@@ -1,0 +1,4 @@
+github.com/atotto/clipboard v0.1.4 h1:EH0zSVneZPSuFR11BlR9YppQTVDbh5+16AmcJi4g1z4=
+github.com/atotto/clipboard v0.1.4/go.mod h1:ZY9tmq7sm5xIbd9bOK4onWV4S6X0u6GY7Vn0Yu86PYI=
+github.com/sashabaranov/go-openai v1.7.0 h1:D1dBXoZhtf/aKNu6WFf0c7Ah2NM30PZ/3Mqly6cZ7fk=
+github.com/sashabaranov/go-openai v1.7.0/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
